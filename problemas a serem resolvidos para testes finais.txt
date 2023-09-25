@@ -1,0 +1,5 @@
+no campo assunto deve ser colocado o nome da obra com os dados cadastrais referente a ela 
+em anexo
+
+
+melhorar o conteudo da mensagem tirando os NAN e posicionando melhor nas colunas os itens;;
